@@ -159,9 +159,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../../Gerbers/")
 		)
 	)
 	(net 0 "")
@@ -17220,7 +17220,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "ced3f0c6-b43c-4b07-b3e5-8183b1ab262b")
+			(uuid "846bb5b3-5817-48bd-9e94-78c92cb8f8f6")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -17232,7 +17232,7 @@
 			(at 0.75 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "de54ebb3-d4c3-4b8e-93c9-3a224867a640")
+			(uuid "ade5491b-85dd-4a3c-836a-3cf8dc9a3b99")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -17244,7 +17244,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5a8013cd-b9d2-4109-bca1-b3d9e7b1117d")
+			(uuid "d9243c7c-987e-4594-aa5c-8e60ec2e3f7b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17256,7 +17256,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "33f483e6-6e37-4279-8a08-6ab2b7f7fe3b")
+			(uuid "2e9fc28b-f59d-4d5b-9ea1-ad9ed435d099")
 			(effects
 				(font
 					(size 1.27 1.27)
