@@ -12596,7 +12596,7 @@
 	)
 	(global_label "USB_DN"
 		(shape input)
-		(at 168.91 242.57 0)
+		(at 168.91 245.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12606,7 +12606,7 @@
 		)
 		(uuid "25466af0-802d-4f74-b789-ff33ab52c000")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 179.2733 242.57 0)
+			(at 179.2733 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14774,7 +14774,7 @@
 	)
 	(global_label "USB_DP"
 		(shape input)
-		(at 168.91 245.11 0)
+		(at 168.91 242.57 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14784,7 +14784,7 @@
 		)
 		(uuid "80ea26ca-1b5e-44a8-80e6-547d8556d956")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 179.2128 245.11 0)
+			(at 179.2128 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
