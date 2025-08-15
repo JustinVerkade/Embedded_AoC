@@ -521,7 +521,7 @@
       "plot": "../../Gerbers/",
       "pos_files": "../",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../Embedded_AoC_V1.step",
       "svg": "",
       "vrml": ""
     },
